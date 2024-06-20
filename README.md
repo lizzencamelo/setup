@@ -5,8 +5,11 @@
 
 ## Setting up local environment
 
-Install Python version 3.12 
-Install nodejs  
+    Install Python (version 3.12): 
+    Link: https://www.python.org/downloads/
+
+    Install nodejs: 
+    Link: https://nodejs.org/en/download/package-manager
 
     Clone repository: 
                                                     > git clone https://github.com/Quisha16/insights.io.git
